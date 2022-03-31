@@ -1,0 +1,44 @@
+img {
+    width: 300px;
+    height: auto;
+}
+
+body {
+    background-color: black;
+    color: white;
+    text-align: center;
+    font: sans-serif;
+    font-size: 18px;
+}
+
+h1 {
+    font-weight: bold;
+    text-decoration: underline;
+}
+
+h2 {
+    font-weight: bold;
+    text-decoration: underline;
+    color: goldenrod;
+}
+
+a {
+    color: white;
+}
+
+.instructions {
+    text-align: left;
+}
+
+#title-text {
+    color: yellow;
+    font-size: 36px;
+}
+
+.homepage-link {
+    size: 20px;
+    text-decoration: underline;
+    color: lightblue;
+    font-weight: bold;
+}
+
